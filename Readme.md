@@ -20,7 +20,7 @@
 ## 📖 İçindekiler
 
 - [Genel Bakış](#genel-bakış)
-- [Görüntüler](#Görüntüler)
+- [Görüntüler](#görüntüler)
 - [Özellikler](#özellikler)
 - [Teknoloji Stack](#teknoloji-stack)
 - [Kurulum](#kurulum)
