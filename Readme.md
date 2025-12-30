@@ -19,16 +19,16 @@
 
 ## 📖 İçindekiler
 
-- [Genel Bakış](#genel-bakış)
-- [Görüntüler](#görüntüler)
-- [Özellikler](#özellikler)
-- [Teknoloji Stack](#teknoloji-stack)
-- [Kurulum](#kurulum)
-- [Kullanım](#kullanım)
-- [API Dokümantasyonu](#api-dokümantasyonu)
-- [Proje Yapısı](#proje-yapısı)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
+- [Genel Bakış](#-genel-bakış)
+- [Görüntüler](#-görüntüler)
+- [Özellikler](#-özellikler)
+- [Teknoloji Stack](#️-teknoloji-stack)
+- [Kurulum](#-kurulum)
+- [Kullanım](#-kullanım)
+- [API Dokümantasyonu](#-api-dokümantasyonu)
+- [Proje Yapısı](#-proje-yapısı)
+- [Katkıda Bulunma](#-katkıda-bulunma)
+- [Lisans](#-lisans)
 
 ---
 
