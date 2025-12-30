@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Querova Logo](https://via.placeholder.com/150x150/6366f1/ffffff?text=Q)
+![Querova Logo](docs/logo.png)
 
 **Belge analizi ve soru-cevap için yapay zeka destekli akıllı platform**
 
@@ -20,6 +20,7 @@
 ## 📖 İçindekiler
 
 - [Genel Bakış](#genel-bakış)
+- [Görüntüler](#Görüntüler)
 - [Özellikler](#özellikler)
 - [Teknoloji Stack](#teknoloji-stack)
 - [Kurulum](#kurulum)
@@ -42,6 +43,20 @@ Querova, **Retrieval-Augmented Generation (RAG)** teknolojisi kullanarak belgele
 - **📚 Kaynak Doğrulama**: Her cevap için doğrulanmış kaynak referansları
 - **🔍 Gelişmiş Arama**: Semantic search ile ilgili bilgileri bulun
 - **🎨 Modern Arayüz**: Glassmorphism ve animasyonlarla estetik tasarım
+
+## 📸 Görüntüler
+
+### 📑 Arayüz
+![Upload](docs/interface.png)
+
+### 🪧 Sonuçlar
+![Preview](docs/results.png)
+
+### 💡 Cevaplar
+![Insights](docs/detailed_results.png)
+
+### 🔗 Kaynaklar
+![Charts](docs/sources.png)
 
 ---
 
