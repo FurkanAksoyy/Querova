@@ -49,6 +49,9 @@ Querova, **Retrieval-Augmented Generation (RAG)** teknolojisi kullanarak belgele
 ### 📑 Arayüz
 ![Upload](docs/interface.png)
 
+### ⁉️ Sorular
+![Upload](docs/manual.png)
+
 ### 🪧 Sonuçlar
 ![Preview](docs/results.png)
 
