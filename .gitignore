@@ -1,0 +1,253 @@
+# ============================================
+# Querova Project - Git Ignore Rules
+# ============================================
+
+# ==========================================
+# Python / Backend
+# ==========================================
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ==========================================
+# Node.js / Frontend
+# ==========================================
+
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+*.local
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==========================================
+# Environment & Secrets
+# ==========================================
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# API Keys (be extra careful)
+*_secret.txt
+*_api_key.txt
+secrets/
+
+# ==========================================
+# Database & Storage
+# ==========================================
+
+# ChromaDB persistence
+chroma_db/
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploads directory
+uploads/
+temp/
+tmp/
+
+# ==========================================
+# Logs
+# ==========================================
+
+# Log files
+logs/
+*.log
+log/
+*.log.*
+
+# ==========================================
+# Testing & Coverage
+# ==========================================
+
+# Test coverage
+coverage/
+.nyc_output/
+*.lcov
+
+# ==========================================
+# Build artifacts
+# ==========================================
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Package files
+*.egg
+*.egg-info/
+dist/
+build/
+wheels/
+*.whl
+
+# ==========================================
+# Documentation
+# ==========================================
+
+# Sphinx documentation
+docs/_build/
+site/
+
+# ==========================================
+# Misc
+# ==========================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# ==========================================
+# Project Specific
+# ==========================================
+
+# Example files (don't commit real data)
+examples/test-files/
+examples/*.pdf
+examples/*.docx
+
+# Local testing
+local_test/
+scratch/
+playground/
+
+# Large files (should use Git LFS if needed)
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.iso
+
+# Videos & Large media
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+
+# Audio
+*.mp3
+*.wav
+*.flac
+
+# Images (if too large)
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+
+# ==========================================
+# Git LFS (if using)
+# ==========================================
+
+.gitattributes
+
+# ==========================================
+# CI/CD
+# ==========================================
+
+.github/workflows/local-test.yml
+.gitlab-ci-local/
+
+# ==========================================
+# Keep these files but ignore contents
+# ==========================================
+
+# Config templates (keep .example versions)
+!.env.example
+!config.example.json
+
+# ==========================================
+# END OF GITIGNORE
+# ==========================================
